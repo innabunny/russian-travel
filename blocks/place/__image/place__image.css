@@ -2,20 +2,3 @@
   max-width: 100%;
 }
 
-@media screen and (max-width: 425px) {
-  .cover__background {
-    min-height: 3200px;
-  }
-}
-
-@media (min-width: 426px) and (max-width: 768px) {
-  .cover__background {
-    min-height: 340px;
-  }
-}
-
-@media (min-width: 769px) and (max-width: 1024px) {
-  .cover__background {
-    min-height: 440px;
-  }
-}

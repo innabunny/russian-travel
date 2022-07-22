@@ -5,21 +5,21 @@
   padding: 92px 0 0 0;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 1279px) {
+  .cover {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 1023px){
+  .cover {
+    padding: 90px 0 0 0;
+  }
+}
+
+@media screen and (max-width: 767px)  {
   .cover {
     padding: 66px 0 0 0;
   }
 }
-
-/*@media (min-width: 426px) and (max-width: 768px) {*/
-/*  .cover {*/
-/*    !*padding: 90px 0 88px 0;*!*/
-/*  }*/
-/*}*/
-
-/*@media (min-width: 769px) and (max-width: 1024px) {*/
-/*  .cover {*/
-/*    !*padding: 92px 0 92px 0;*!*/
-/*  }*/
-/*}*/
 
