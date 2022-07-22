@@ -17,9 +17,3 @@
     line-height: 35px;
   }
 }
-
-@media (min-width: 426px) and (max-width: 768px) {
-  .intro__title {
-    max-width: 720px;
-  }
-}
